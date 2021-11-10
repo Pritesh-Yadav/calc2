@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/Pritesh-Yadav/calc2.svg?branch=calc2)](https://app.travis-ci.com/Pritesh-Yadav/calc2)
+[![Build Status](https://app.travis-ci.com/Pritesh-Yadav/calc2.svg?branch=refractor)](https://app.travis-ci.com/Pritesh-Yadav/calc2)
 
 Run Pip Install
 pip install -r requirements.txt
